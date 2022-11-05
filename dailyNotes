@@ -1,0 +1,66 @@
+
+
+=> Array Functions
+
+sort - used to sort the array in accending order
+rsort - used to sort the array in deccending order
+asort - used to sort the array in accending order with same key/index value
+arsort - used to sort the array in decending order with same key/index value
+ksort  - used to sort the array keys/index in accending order
+krsort - used to sort the array keys/index in decending order
+unset - used to to remove/delete the specific key of array or entire array/variable.
+isset = used to check the array/variable is existed or not
+empty - used to check the variable having the vaule or not. It will return true if 
+        it has value otherwise false
+count - used to check the lenght of the array
+
+=> File Includes
+include()
+include_once()
+require()
+require_once()
+
+=> Arthemetic Operations
+
+= assignment operator
+== comparasion  != not equal
+=== comparasion data with data types
+< less then
+> greathen
+<= less then or equal
+>= gretherthen or equal
++ addition
+- subraction
+* multiplication
+++ increment 
+-- decrement
+
+=> logical operators
+AND / &&
+OR / ||
+NOT / !
+
+=> Control Structures
+if
+if else
+if else if
+switch
+
+=> Loops
+for
+while
+do while
+break and continue
+
+=> PHP Error types
+Notice example : calling Undefined variable
+Warning : including no existig files using include/include once
+Fattel error : including on existing files using require/require_once
+Parse/Syntax error : Any syntax error like miss spellings or missing any , or
+
+=>Functions
+Funciton is a set of instructions or block of code which will execute when calling of the function.
+Function with parameters
+Funciton with default values
+Function with pass by value and pass by refference
+
